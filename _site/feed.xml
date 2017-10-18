@@ -5,17 +5,45 @@
     <description>A machine learning learner blog.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 18 Oct 2017 16:41:51 +0800</pubDate>
-    <lastBuildDate>Wed, 18 Oct 2017 16:41:51 +0800</lastBuildDate>
+    <pubDate>Wed, 18 Oct 2017 17:04:54 +0800</pubDate>
+    <lastBuildDate>Wed, 18 Oct 2017 17:04:54 +0800</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
       <item>
-        <title>Tutorial: How to build a github website using Jekyll</title>
+        <title>Reminder: How to using Tensorflow on Google Cloud </title>
         <description>
 </description>
-        <pubDate>Tue, 17 Oct 2017 17:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/10/17/github-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/10/17/github-jekyll/</guid>
+        <pubDate>Wed, 18 Oct 2017 17:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/10/18/google-cloud/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/18/google-cloud/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Reminder: How to build a github.io blog using Github Pages and Jekyll</title>
+        <description>&lt;p&gt;Introduction&lt;/p&gt;
+
+&lt;h1 id=&quot;googling-github-pages&quot;&gt;Googling “Github Pages”&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Create a repository named as “your_github_name.github.io”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;googling-template-using-jekyll&quot;&gt;Googling “template using Jekyll”&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Find some existing templates and clone it to your repository&lt;/li&gt;
+  &lt;li&gt;Install Jekyll on your machine&lt;/li&gt;
+  &lt;li&gt;Run commands “jekyll build” and “jekyll serve” to modify the chosen template&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;push-to-your-repository&quot;&gt;Push to your repository&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;The blog url is exactly “your_github_name.github.io”&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 18 Oct 2017 17:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2017/10/18/github-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/18/github-jekyll/</guid>
         
         
       </item>
