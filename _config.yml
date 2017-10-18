@@ -2,9 +2,11 @@
 title: This is Angelo
 subtitle: Machine Learning Blog
 email: wenyudu.vip@gmail.com
-description: "A machine learning craftsmanship blog."
+description: "A machine learning learner blog."
 baseurl: ""
 url: "https://ange1o.github.io"
+#facebook_username: icream92
+#twitter_username: icream92
 github_username:  ange1o
 
 # Build settings
