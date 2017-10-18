@@ -7,8 +7,8 @@ author:     "wenyu"
 header-img: "img/tensorflow."
 ---
 
-# ML engine
+# Google ML engine
 https://cloud.google.com/ml-engine/docs/command-line
 
-# datalab
+# Google datalab
 https://cloud.google.com/datalab/docs/quickstarts
