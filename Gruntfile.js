@@ -9,6 +9,14 @@ module.exports = function(grunt) {
                 dest: 'js/<%= pkg.name %>.min.js'
             }
         },
+        shell:{
+        	jekyllBuild:{
+        		command:'jekyll build'
+        	},
+        	jekyllServe:{
+        		command:'jekyll serve'
+        	}
+        },
         less: {
             expanded: {
                 options: {
@@ -59,16 +67,19 @@ module.exports = function(grunt) {
                     spawn: false,
                 }
             },
+         	tasks:['shell:jekyllBuild','shell:jekyllServe'],
         },
     });
 
     // Load the plugins.
+    grunt.loadNpmTasks('grunt-shell');
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-less');
     grunt.loadNpmTasks('grunt-banner');
     grunt.loadNpmTasks('grunt-contrib-watch');
 
+
     // Default task(s).
-    grunt.registerTask('default', ['uglify', 'less', 'usebanner']);
+    grunt.registerTask('default', ['shell','uglify', 'less', 'usebanner']);
 
 };
