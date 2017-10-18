@@ -6,3 +6,9 @@ date:       2017-10-18 9:00:00
 author:     "wenyu"
 header-img: "img/tensorflow."
 ---
+
+# ML engine
+https://cloud.google.com/ml-engine/docs/command-line
+
+# datalab
+https://cloud.google.com/datalab/docs/quickstarts
