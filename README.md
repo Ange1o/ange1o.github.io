@@ -1,3 +1,5 @@
+http://download.microsoft.com/download/B/0/F/B0F589ED-F1B7-478C-849A-02C8395D0995/VS2012_ULT_chs.iso
+
 #Clean Blog by Start Bootstrap - Jekyll Version
 
 The official Jekyll version of the Clean Blog theme by [Start Bootstrap](http://startbootstrap.com/).
