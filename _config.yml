@@ -1,8 +1,8 @@
 # Site settings
-title: Wenyu's ML Blog
-subtitle: Road to Machine Learning Scientist
+title: Wenyu DU
+subtitle: Road to AI Scientist
 email: wenyudu.vip@gmail.com
-description: "A machine learning learner blog."
+description: "A machine learning learner's website."
 baseurl: ""
 url: "https://ange1o.github.io"
 #facebook_username: icream92
@@ -22,4 +22,6 @@ analytics :
     tracking_id : 'UA-36138203-3'
   getclicky :
     site_id
-plugins: [jekyll-paginate]
+plugins_dir: [jekyll-paginate]
+
+gems: [jekyll-paginate]
